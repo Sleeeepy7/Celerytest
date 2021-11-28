@@ -1,5 +1,7 @@
 # Celerytest
 Testing celery 
+
+
 Тестовый django проект с использованием фреймворка Celery + Redis
 (Redis запускал через docker)
 
